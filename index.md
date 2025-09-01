@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Tom Tvaroh's First CS193 Homework
+
+## My Favorite Things about CS 193 so far
+
+- The teachers of CS 193 are super cool 😎
+- We get to learn about important stuff like git and linux ✨
+- The course is only one credit, so the time commitment is minimal 😁
+
+
+
+## Here's some awesome stuff that the instructors put together about Github Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
